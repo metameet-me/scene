@@ -1,0 +1,23 @@
+{
+	"name": "com.metameet.customscene",
+	"version": "1.2.3",
+	"displayName": "metameet custom scene",
+	"description": "Allows you to create a custom scene utilizing metameet",
+	"unity": "2021.3",
+	"unityRelease": "2f1",
+	"documentationUrl": "https://pax-world.gitbook.io/metameet-custom-scene/",
+	"changelogUrl": "https://pax-world.gitbook.io/metameet-custom-scene/",
+	"licensesUrl": "https://pax-world.gitbook.io/metameet-custom-scene/",
+	"dependencies": {
+   },
+   "keywords": [
+	  "metaverse",
+	  "custom",
+	  "metameet"
+	],
+	"author": {
+	  "name": "metameet",
+	  "email": "support@metameet.me",
+	  "url": "https://metameet.me"
+	}
+  }
