@@ -1,0 +1,16 @@
+{
+    "name": "metameet.mcustomscene.editor",
+    "rootNamespace": "metameet",
+    "references": [
+        "GUID:655bc7e633788bd4c91ddd2ae6fa9884"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
