@@ -1,0 +1,11 @@
+{
+  "name": "metameet.customscene",
+  "references": [
+    "customscene"
+  ],
+  "optionalUnityReferences": [
+
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}
