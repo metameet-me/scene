@@ -18,5 +18,6 @@
     "email": "support@metameet.me",
     "url": "https://metameet.me"
   },
-  "type": "template"
+  "type": "template",
+	 "src": "Assets/metameet"
 }
